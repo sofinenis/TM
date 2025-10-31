@@ -44,7 +44,7 @@ st.title("🌻 Reconocimiento de Imágenes entre Girasoles 🌞")
 st.markdown("Usando un modelo entrenado con Teachable Machine para identificar posiciones o gestos 🌼")
 
 # 🌻 Imagen inicial
-image = Image.open('OIG5.jpg')
+image = Image.open('girasol.jpg')
 st.image(image, width=350, caption="🌻 Imagen de ejemplo")
 
 # 🌻 Barra lateral informativa
